@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadWriteWavFile", "ReadWriteWavFile\ReadWriteWavFile.csproj", "{3686E4B8-3A02-4D9B-8D06-2D97A596FD10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3686E4B8-3A02-4D9B-8D06-2D97A596FD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3686E4B8-3A02-4D9B-8D06-2D97A596FD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3686E4B8-3A02-4D9B-8D06-2D97A596FD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3686E4B8-3A02-4D9B-8D06-2D97A596FD10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C48E61A1-DAF3-4919-9290-84AB669A35B2}
+	EndGlobalSection
+EndGlobal
